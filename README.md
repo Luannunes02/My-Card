@@ -26,18 +26,6 @@ Luan Card
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan_nunees/)
 <br>
 <br>
-<h2><strong> 🖼️ Imagens do projeto:</strong></h2> 
-
-![1](https://user-images.githubusercontent.com/105875989/201987690-f8047ed3-9db4-4c67-bf82-c16868623083.png)
-
-<br>
-
-![2](https://user-images.githubusercontent.com/105875989/201987698-c05065ec-ec14-4073-b59c-3c604da70d31.png)
-
-<br>
-
-![3](https://user-images.githubusercontent.com/105875989/201987703-6ca37064-7c74-41cb-bc25-ffbd2483327b.png)
-
 <h2><strong>🖥️ Autor:</strong></h2>   
 
 <img align='center' style="width:100px; height: 100px;" alt='Luan' src='https://user-images.githubusercontent.com/105875989/202720555-79b37083-a2e8-47d6-8d43-5003323b22ff.jpeg'/>  
